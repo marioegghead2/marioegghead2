@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioegghead2
 - 👀 I’m interested in languages
-- 🌱 I’m currently learning in school
+- 🏫 I’m currently learning in school
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me, Email me
 
