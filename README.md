@@ -1,3 +1,4 @@
+# Welcome!
 - 👋 Hi, I’m @marioegghead2
 - 👀 I’m interested in languages
 - 🌱 I’m currently learning in school
