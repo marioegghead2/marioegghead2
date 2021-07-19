@@ -7,4 +7,4 @@
 - 🍽️ Sometimes i eat. 
 #     
 Written using the README.md Special credits GitHub®️
-https://gph.is/g/EqN8M7r
+![image](https://user-images.githubusercontent.com/82485570/126090036-6ff78be2-5d2a-4178-a506-fa8f55f1832f.png)
