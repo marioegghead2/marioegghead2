@@ -9,4 +9,8 @@
 Written using the README.md Special credits GitHub®️
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioegghead2&show_icons=true&theme=highcontrast)
-
+```
+the good thing i good
+bye hope i see you
+now endeds
+```
